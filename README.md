@@ -6,3 +6,4 @@
 - **[Find the Parity Outlier](https://github.com/Razeen-Shaikh/codewars/tree/main/find-the-parity-outlier)**
 - **[Replace all Vowels to Exclamation](https://github.com/Razeen-Shaikh/codewars/tree/main/replace-all-vowel-to-exclamation)**
 - **[Sum of Two lowest Positive Integers](https://github.com/Razeen-Shaikh/codewars/tree/main/sum-of-two-lowest-positive-integers)**
+- **[Split Strings](https://github.com/Razeen-Shaikh/codewars/tree/main/split-strings)**
